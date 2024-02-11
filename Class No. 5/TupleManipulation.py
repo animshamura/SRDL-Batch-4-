@@ -1,0 +1,7 @@
+Tuple = ()
+Tuple = () + ('Asif','Ashiq','Sabbir','Ashiq',)
+print(Tuple)
+Tuple = Tuple + ("Jihad",)
+print(Tuple)
+print(Tuple[2])
+print(Tuple.count("Ashiq"))     
