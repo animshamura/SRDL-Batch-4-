@@ -1,0 +1,5 @@
+Python is a high level programming language.
+It can be used in different fields. 
+We can use python to develop games, software and websites.
+It is even used in Artificial Intelligence and Machine Learning.
+In data science, python is used to shape the datas to fit any model.
