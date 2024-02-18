@@ -6,5 +6,5 @@ def Triangle(n,c):
         print()
 
 n = int(input("Enter the length of the triangle: "))
-c = input("Enter the character - the square will be filled with: ")
+c = input("Enter the character - the triangle will be filled with: ")
 Triangle(n,c)  
